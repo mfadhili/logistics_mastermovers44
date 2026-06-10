@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Master Movers",
+  "description": "Premium relocation intelligence and precision logistics for global citizens and enterprise scale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
